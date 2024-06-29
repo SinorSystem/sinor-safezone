@@ -1,6 +1,6 @@
 # sinor-safezone
 
-A FiveM resource that adds military safe zones with NPCs that will engage players carrying weapons.
+A FiveM resource that adds safe zones with NPCs that will engage players carrying weapons.
 
 # Features
 
