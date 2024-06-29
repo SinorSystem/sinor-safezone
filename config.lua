@@ -29,13 +29,9 @@ Config = {
                     [9] = vector4(184.41, 2737.03, 42.43, 306.71),
                     -- Add more positions as needed
             
+                }
             }
         },
-        -- ADD MORE SAFEZONE IF NEEDED
-   }
-}, 
-
-
         -- Add more safe zones if needed
     }
 }
